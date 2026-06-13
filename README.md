@@ -1,4 +1,4 @@
-# Hey, I'm Hassan 👋
+# Hey, I'm Noor ul Hassan 👋
 
 **Full-Stack Developer & Flutter Engineer** · CS Student @ ITU Lahore (2024–2028)  
 Building real products — from transport systems to AI-powered tools.  
