@@ -2,7 +2,7 @@
 
 **Full-Stack Developer & Flutter Engineer** · CS Student @ ITU Lahore (2024–2028)  
 Building real products — from transport systems to AI-powered tools.  
-🏆 Top 12 @ SOFTEC 2026 with FairGig
+🏆 Top 10 @ SOFTEC 2026 with FairGig
 
 ---
 
