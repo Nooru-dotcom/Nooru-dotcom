@@ -73,19 +73,11 @@ Building real products — from transport systems to AI-powered tools.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nooru-dotcom&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nooru-dotcom&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-noor-ul-hassan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noorulhassanumar85@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 
 ---
