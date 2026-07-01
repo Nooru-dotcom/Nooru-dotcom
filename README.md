@@ -48,7 +48,7 @@ Building real products — from transport systems to AI-powered tools.
 
 ---
 
-### 💼 FairGig *(Top 12 — SOFTEC 2026)*
+### 💼 FairGig *(Top 10 — SOFTEC 2026)*
 > Microservice platform for gig workers with fair pay mechanisms and worker protections.
 
 `Microservices` `Full-Stack`
